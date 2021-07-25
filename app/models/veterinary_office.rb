@@ -1,0 +1,2 @@
+class VeterinaryOffice < ApplicationRecord
+end
